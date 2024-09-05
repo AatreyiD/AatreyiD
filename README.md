@@ -1,5 +1,5 @@
-## Hi! Welcome to my GitHub profile, an archive of my coding work!
-#### ⥀ Previously on GitHub profile as [AatreyiDutt](https://github.com/AatreyiDutt)
+## Hi! Welcome to my GitHub, an archive of my coding work!
+#### ⥀ Previously on GitHub as [AatreyiDutt](https://github.com/AatreyiDutt)
 #### ⥀ I like working on data visualisations and trying out misc. python packages!
 #### ⥀ Currently pursuing a Master of Science degree in Data Science & Spatial Analytics from Symbiosis Institute of Geoinformatics
 
