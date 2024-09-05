@@ -1,7 +1,7 @@
 ## Hi! Welcome to my GitHub profile, an archive of my coding work!
-### ⥀ I'm currently pursuing a Master of Science degree in Data Science & Spatial Analytics from Symbiosis Institute of Geoinformatics
-### ⥀ My previous GitHub profile was [AatreyiDutt](https://github.com/AatreyiDutt)
-### ⥀ I like working on data visualisations and trying out misc. python packages!
+#### ⥀ Previously on GitHub profile as [AatreyiDutt](https://github.com/AatreyiDutt)
+#### ⥀ I like working on data visualisations and trying out misc. python packages!
+#### ⥀ Currently pursuing a Master of Science degree in Data Science & Spatial Analytics from Symbiosis Institute of Geoinformatics
 
 <!--
 **AatreyiD/AatreyiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
